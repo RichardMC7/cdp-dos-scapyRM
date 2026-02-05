@@ -28,7 +28,6 @@ Insertar evidencia en el siguiente orden:
 
 Topología en PNETLab
 
-(Insertar imagen)
 
 Verificación de CDP habilitado en el switch
 
@@ -37,13 +36,11 @@ Ejemplo de comando:
 show cdp neighbors
 
 
-(Insertar imagen)
 
 Ejecución del script DoS
 sudo python3 cdp_dos.py
 
 
-(Insertar imagen)
 
 Evidencia de degradación del dispositivo
 
@@ -61,8 +58,6 @@ Ejemplo:
 
 show processes cpu
 
-
-(Insertar imagen)
 
 Parámetros Usados
 
